@@ -1,0 +1,22 @@
+.card:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+  }
+  .card-img-top {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: auto;
+    margin-top: 15px;
+    position: relative;
+    padding: auto;
+
+  }
+ 
+  .logo-img {
+    width: 200px;
+    height: auto;
+  }
+
+  
+  
